@@ -1,0 +1,28 @@
+* {
+    color:blue;
+    
+}
+.header {
+    border:solid;
+    border-color: pink;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 570px;    
+}
+.items {
+    border:solid;
+    border-color: pink;
+    display: flex;
+    flex-flow: unset;
+    align-items: baseline;
+}
+.intro {
+    border:solid;
+    border-color: green;
+    display: flex;
+    flex-grow: inherit;
+    
+}
+
+
